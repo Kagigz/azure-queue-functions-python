@@ -1,6 +1,7 @@
 # Azure Python Functions - Queue triggered sample code
 
 This repo contains sample code for an Azure Python Function App with an HTTP-triggered and a queue-triggered function.
+You can read more about it in [this article](https://kagigz.medium.com/how-to-use-azure-queue-triggered-functions-and-why-7f651c9d3f8c).
 
 ## Scenario
 
